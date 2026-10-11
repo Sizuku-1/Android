@@ -1,4 +1,4 @@
-package cn.edu.sicnu.cs.lyx.android2
+package cn.edu.sicnu.cs.txp.android2
 
 import org.junit.Test
 

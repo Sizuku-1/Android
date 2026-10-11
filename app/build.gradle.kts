@@ -3,14 +3,14 @@ plugins {
 }
 
 android {
-    namespace = "cn.edu.sicnu.cs.lyx.android2"
+    namespace = "cn.edu.sicnu.cs.txp.android2"
 
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "cn.edu.sicnu.cs.lyx.android2"
+        applicationId = "cn.edu.sicnu.cs.txp.android2"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

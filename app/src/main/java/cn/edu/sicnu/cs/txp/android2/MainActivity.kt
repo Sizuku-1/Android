@@ -1,4 +1,4 @@
-package cn.edu.sicnu.cs.lyx.android2
+package cn.edu.sicnu.cs.txp.android2
 
 import android.os.Bundle
 import android.view.View
@@ -7,7 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import cn.edu.sicnu.cs.lyx.android2.databinding.ActivityMainBinding
+import cn.edu.sicnu.cs.txp.android2.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
